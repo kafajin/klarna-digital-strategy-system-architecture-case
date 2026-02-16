@@ -120,6 +120,16 @@ These structural and operational challenges form the foundation for the future-s
 
 ---
 
+### System Landscape — Current State (AS-IS)
+
+<p align="center">
+  <img src="architecture-diagrams/klarna-system-landscape-as-is.png" width="800"/>
+  <br>
+  <em>Figure 2: Klarna System Landscape — Current State (AS-IS)</em>
+</p>
+
+---
+
 ## 4. Future State Strategy (TO-BE)
 
 This section defines the strategic vision for Klarna’s digital platform transformation.
