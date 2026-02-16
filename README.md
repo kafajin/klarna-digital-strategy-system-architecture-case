@@ -47,6 +47,30 @@ Revenue streams include:
 
 Klarna’s business growth depends heavily on expanding its global merchant network and increasing transaction volume across markets.
 
+### 3.2 Merchant Onboarding Process
+
+Merchant onboarding is the process through which businesses integrate Klarna’s payment solutions into their checkout environments.
+
+The onboarding journey typically includes several stages:
+
+1. Merchant registration and business verification  
+2. Contractual agreements and compliance checks  
+3. Technical integration via APIs or platform plugins  
+4. Payment method configuration  
+5. Testing and go-live deployment  
+
+Klarna supports integrations through multiple channels, including direct API connections, e-commerce platform plugins, and partner integrations.
+
+However, onboarding complexity can vary depending on merchant size, technical maturity, and geographic market requirements.
+
+#### Observed challenges:
+
+- Integration timelines can be lengthy for custom implementations  
+- Compliance requirements differ across markets  
+- Technical documentation may require specialized developer support  
+- Limited self-service onboarding for smaller merchants
+
+
 
 ---
 
