@@ -70,6 +70,37 @@ However, onboarding complexity can vary depending on merchant size, technical ma
 - Technical documentation may require specialized developer support  
 - Limited self-service onboarding for smaller merchants
 
+### 3.3 Payment Processing Landscape
+
+Klarna’s payment processing platform manages end-to-end transaction flows between consumers, merchants, and financial institutions.
+
+When a customer selects Klarna at checkout, the platform performs multiple real-time operations:
+
+1. Payment authorization request  
+2. Credit risk assessment  
+3. Fraud detection screening  
+4. Transaction approval or rejection  
+5. Payment settlement and fund transfer  
+
+These processes must operate with high availability and low latency to ensure a seamless checkout experience.
+
+The payment platform interacts with several internal and external systems, including:
+
+- Risk and credit scoring engines  
+- Fraud detection services  
+- Banking networks and payment processors  
+- Consumer account services  
+- Merchant transaction ledgers  
+
+#### Observed challenges:
+
+- High transaction volumes during peak periods strain system performance  
+- Real-time risk processing introduces latency risks  
+- Fraud detection requires continuous model updates  
+- Settlement processes vary across regions and banking partners
+
+These structural and operational challenges form the foundation for the future-state digital strategy and system architecture proposed in the following sections.
+
 
 
 ---
