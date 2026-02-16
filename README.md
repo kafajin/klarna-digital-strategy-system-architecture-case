@@ -112,7 +112,7 @@ These structural and operational challenges form the foundation for the future-s
 ### AS-IS Payment Flow Diagram
 
 <p align="center">
-  <img src="architecture-diagrams/klarna-payment-flow-as-is.png" width="700"/>
+  <img src="architecture-diagrams/klarna-payment-flow-as-is.png.png" width="700"/>
   <br>
   <em>Figure 1: Klarna Payment Flow – Current State (AS-IS)</em>
 </p>
@@ -131,6 +131,15 @@ These structural and operational challenges form the foundation for the future-s
 ---
 
 ## 4. Future State Strategy (TO-BE)
+
+### Target Architecture — Future State (TO-BE)
+
+<p align="center">
+  <img src="architecture-diagrams/klarna-target-architecture-to-be.png.png" width="850"/>
+  <br>
+  <em>Figure 3: Klarna Target Architecture — Future State (TO-BE)</em>
+</p>
+
 
 This section defines the strategic vision for Klarna’s digital platform transformation.
 
