@@ -32,6 +32,22 @@ This section analyzes Klarna’s existing business model, payment platform struc
 * System integration model
 * Identified pain points
 
+### 3.1 Business Model Overview
+
+Klarna operates as a global fintech platform providing digital payment solutions for both consumers and merchants. Its core offering enables flexible payment options such as Buy Now, Pay Later (BNPL), installment payments, and direct checkout services.
+
+The platform acts as an intermediary between consumers, merchants, and financial institutions, facilitating transactions while managing credit risk and payment processing.
+
+Revenue streams include:
+
+- Merchant transaction fees  
+- Consumer financing fees  
+- Interest from installment payments  
+- Value-added merchant services  
+
+Klarna’s business growth depends heavily on expanding its global merchant network and increasing transaction volume across markets.
+
+
 ---
 
 ## 4. Future State Strategy (TO-BE)
