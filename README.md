@@ -204,5 +204,26 @@ This section summarizes the strategic outcomes of the case.
 
 ## 9. Executive Summary
 
-A leadership-level summary of the digital strategy, architecture transformation, and business value outcomes derived from this case.
+This case explores how Klarna can evolve its digital strategy and system architecture to support global scalability, faster merchant onboarding, and continuous payment innovation.
+
+The current platform faces challenges related to integration complexity, increasing transaction volumes, and the need for localized payment solutions. These limitations impact scalability, operational efficiency, and time-to-market for new features.
+
+To address these challenges, a future-state architecture is proposed based on four key principles:
+
+- API-first platform enabling self-service integrations  
+- Domain-based microservices for scalability and faster development  
+- Event-driven architecture supporting real-time data and decoupled systems  
+- Integrated data and observability layer for monitoring and decision-making  
+
+The proposed transformation enables significant business value, including:
+
+- Faster merchant onboarding and reduced operational costs  
+- Increased revenue through faster product launches and global expansion  
+- Improved risk management and fraud detection capabilities  
+- Enhanced system performance and scalability  
+- Better customer and merchant experience  
+
+A phased implementation roadmap ensures a controlled and realistic transition from the current state to the target architecture, minimizing risk while continuously delivering value.
+
+Overall, this transformation positions Klarna as a scalable, data-driven, and innovation-focused fintech platform capable of sustaining long-term competitive advantage.
 
